@@ -184,11 +184,11 @@ article .container {
  /* [START] FOOTER */
  footer {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   background-color: #2F2F2F;
   position: relative;
   text-align: center;
-  padding: 30px 100px;
+  padding: 30px 0;
 }
 
 footer p {
