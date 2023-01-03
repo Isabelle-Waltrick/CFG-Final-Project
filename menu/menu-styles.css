@@ -126,11 +126,11 @@ a {
  /* [START] FOOTER */
  footer {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   background-color: #2F2F2F;
   position: relative;
   text-align: center;
-  padding: 30px 100px;
+  padding: 30px 0;
   width: 100%;
 
 /* Please delete this two lines of code when you finish building your page*/
